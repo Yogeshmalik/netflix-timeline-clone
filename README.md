@@ -17,5 +17,6 @@ You may also see any lint errors in the console.
 //178d4cb9ee597d9b294d852e72a88c1a api key
 
 Live Link : https://netflix-clone-ysm.web.app/
+Live Link : https://ke6hfk.csb.app/
 
 steps: 8. build rows <Row> start with an empty array so that we can populate it using APIs' data 9.
