@@ -1,22 +1,18 @@
-# Getting Started with Create React App
+# Share and support this project
+# This Project is created by using CRA-SPA.
+# This Project used APIs from TMDB i.e themoviedb.org with a unique API key
+# This project was created using VS Code
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Used lang/tech/dependency : HTML, CSS, JavaScript, React.js, API, npm YouTube, movieTrailer, axios, CRA-SPA, Frontend etc.
+ 
+//178d4cb9ee597d9b294d852e72a88c1a 
 
-## Available Scripts
+Live Link for Google Firebase : https://netflix-clone-ysm.web.app/
 
-In the project directory, you can run:
 
-### `npm start`
+Live Link for Code Sandbox : https://ke6hfk.csb.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Some of the Screenshots from the deployed app:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-//178d4cb9ee597d9b294d852e72a88c1a api key
-
-Live Link : https://netflix-clone-ysm.web.app/
-Live Link : https://ke6hfk.csb.app/
-
-steps: 8. build rows <Row> start with an empty array so that we can populate it using APIs' data 9.
+![Screenshot 2023-03-19 182734](https://user-images.githubusercontent.com/14905121/226177068-eb70e387-decd-416c-83e9-dee646f8709b.jpg)
+![Screenshot 2023-03-19 182207](https://user-images.githubusercontent.com/14905121/226177073-eec54062-b108-440c-a39f-ed9a8c720a63.jpg)
